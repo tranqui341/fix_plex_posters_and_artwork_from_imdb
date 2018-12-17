@@ -1,5 +1,10 @@
 # fix_plex_posters_and_artwork_from_imdb
 
+## How to Use
+```linux
+./fixPlexPostersAndArt.py Movie\ Title\ to\ Fix
+```
+
 This python script was written to fix an issue I was having with my plex server running on debian linux.
 
 For whatever reason, all my posters and artwork for every single movie and tv show that I had in my plex library just vanished. 
