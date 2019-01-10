@@ -1,4 +1,4 @@
-# fix_plex_posters_and_artwork_from_imdb
+# Fix Plex Posters and Artwork from IMDb
 
 ## How to Use
 ```linux
